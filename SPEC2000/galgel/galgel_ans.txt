@@ -1,0 +1,224 @@
+
+
+L1 inst cache 8KB, n sets: 256
+
+sim_IPC                      1.4767 # instructions per cycle
+sim_total_loads             5479421 # total number of loads executed
+sim_total_stores       3956202.0000 # total number of stores executed
+il1.miss_rate                0.0001 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0350 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.0610 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67718415 # total simulation time in cycles
+
+
+L1 inst cache 32KB, n sets: 1024
+
+sim_IPC                      1.4772 # instructions per cycle
+sim_total_loads             5479462 # total number of loads executed
+sim_total_stores       3956202.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0350 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.0627 # miss rate (i.e., misses/ref)
+sim_cycle                  67697435 # total simulation time in cycles
+
+
+L1 inst cache 64KB, n sets: 2048
+
+sim_IPC                      1.4772 # instructions per cycle
+sim_total_loads             5479462 # total number of loads executed
+sim_total_stores       3956202.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0350 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.0627 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67697435 # total simulation time in cycles
+
+
+
+
+
+
+
+L1 data cache 2KB, way: 4, n sets: 16
+
+sim_IPC                      1.4772 # instructions per cycle
+sim_total_loads             5482945 # total number of loads executed
+sim_total_stores       3956615.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0396 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.0584 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67696698 # total simulation time in cycles
+
+
+L1 data cache 32KB, way: 4, n sets: 256
+
+sim_IPC                      1.4804 # instructions per cycle
+sim_total_loads             5477478 # total number of loads executed
+sim_total_stores       3956615.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0150 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.1176 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67547516 # total simulation time in cycles
+
+
+L1 data cache 128KB, way: 4, n sets: 1024
+
+sim_IPC                      1.4807 # instructions per cycle
+sim_total_loads             5477268 # total number of loads executed
+sim_total_stores       3956613.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0053 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.4190 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67537155 # total simulation time in cycles
+
+
+
+
+
+
+
+
+L1 data cache 32KB, way: 1, n sets: 1024
+
+sim_IPC                      1.4796 # instructions per cycle
+sim_total_loads             5475302 # total number of loads executed
+sim_total_stores       3956565.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0200 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.0978 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67587433 # total simulation time in cycles
+
+
+L1 data cache 32KB, way: 2, n sets: 512
+
+sim_IPC                      1.4802 # instructions per cycle
+sim_total_loads             5475339 # total number of loads executed
+sim_total_stores       3956615.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0164 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.1114 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67558841 # total simulation time in cycles
+
+
+L1 data cache 32KB, way: 8, n sets: 128
+
+sim_IPC                      1.4804 # instructions per cycle
+sim_total_loads             5477714 # total number of loads executed
+sim_total_stores       3956615.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0151 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.1172 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67547599 # total simulation time in cycles
+
+
+
+
+
+
+
+
+
+L2 data cache 128KB, n sets: 512
+
+sim_IPC                      1.4764 # instructions per cycle
+sim_total_loads             5479674 # total number of loads executed
+sim_total_stores       3956202.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0350 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.0873 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67734475 # total simulation time in cycles
+
+
+L2 data cache 512KB, n sets: 2048
+
+sim_IPC                      1.4774 # instructions per cycle
+sim_total_loads             5479422 # total number of loads executed
+sim_total_stores       3956202.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0350 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.0585 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67688054 # total simulation time in cycles
+
+
+L2 data cache 1024KB, n sets: 4096
+
+sim_IPC                      1.4776 # instructions per cycle
+sim_total_loads             5479421 # total number of loads executed
+sim_total_stores       3956202.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0350 # miss rate (i.e., misses/ref)
+
+ul2.miss_rate                0.0558 # miss rate (i.e., misses/ref)
+
+sim_cycle                  67679523 # total simulation time in cycles
+
+
+
+
+
+
+
+
+32B - L1 n:sets 128 L2 Data Cache n:sets 2048
+
+sim_IPC                      1.4776 # instructions per cycle
+sim_total_loads             5479735 # total number of loads executed
+sim_total_stores       3956200.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0350 # miss rate (i.e., misses/ref)
+ul2.miss_rate                0.0978 # miss rate (i.e., misses/ref)
+sim_cycle                  67679030 # total simulation time in cycles
+
+
+64B - L1 n:sets 64 L2 Data Cache n:sets 1024
+
+sim_IPC                      1.4766 # instructions per cycle
+sim_total_loads             5480855 # total number of loads executed
+sim_total_stores       3955832.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0371 # miss rate (i.e., misses/ref)
+ul2.miss_rate                0.0598 # miss rate (i.e., misses/ref)
+sim_cycle                  67725428 # total simulation time in cycles
+
+
+128B - L1 n:sets 32 L2 Data Cache n:sets 512
+
+sim_IPC                      1.4735 # instructions per cycle
+sim_total_loads             5472572 # total number of loads executed
+sim_total_stores       3955029.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0367 # miss rate (i.e., misses/ref)
+ul2.miss_rate                0.0543 # miss rate (i.e., misses/ref)
+sim_cycle                  67865353 # total simulation time in cycles
+
+
+256B - L1 n:sets 16 L2 Data Cache n:sets 256
+
+sim_IPC                      1.4503 # instructions per cycle
+sim_total_loads             5469783 # total number of loads executed
+sim_total_stores       3953439.0000 # total number of stores executed
+il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+dl1.miss_rate                0.0390 # miss rate (i.e., misses/ref)
+ul2.miss_rate                0.2128 # miss rate (i.e., misses/ref)
+sim_cycle                  68948965 # total simulation time in cycles
+
